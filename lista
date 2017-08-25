@@ -7,6 +7,8 @@ http://185.181.102.3:8081/live/history/l_8576_1096554440_1187.ts
 http://188.166.88.166/stream/cxLmQj5OV7JPYY5wqaxDNVZWPkZvhrKX.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",MULTISHOW
 http://95.141.32.213:8081/look/eimax/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/7DuNQqL.png" group-title="Infantil",Discovery Kids
+http://95.141.35.104:8081/look/discoverykids/playlist.m3u8
 
 
 
