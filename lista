@@ -1,6 +1,12 @@
 #EXTM3U
+********************************************     ABERTOS      ********************************************************************
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="CANAIS ABERTOS",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAIS ABERTOS",FUTURA
+http://177.67.253.55:8080/stream.flv?SUPER_GAME_TV
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
 http://188.166.88.166/stream/cxLmQj5OV7JPYY5wqaxDNVZWPkZvhrKX.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",MULTISHOW
