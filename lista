@@ -9,6 +9,9 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1863.ts
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="CULTURA",History Channel HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1797.ts
 
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="CULTURA",H2
+http://144.217.79.160:8505/live/francis/francis/742.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3430.ts
 
@@ -24,6 +27,9 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2151.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="CULTURA",ID - Investigação Discovery HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1861.ts
+
 ****************************************************     ABERTOS      *********************************************************
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="CANAIS ABERTOS",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
@@ -35,14 +41,14 @@ http://177.67.253.55:8080/stream.flv?SUPER_GAME_TV
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 
 ****************************************************     INFANTIS      *********************************************************
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/7DuNQqL.png" group-title="INFANTIS",Discovery Kids
-http://144.217.79.160:8505/live/francis/francis/679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png" group-title="INFANTIS",Discovery Kids HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3367.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIS",Cartoon Network
-http://144.217.79.160:8505/live/francis/francis/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="INFANTIS",Cartoon Network HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3369.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="INFANTIS",Disney Channel
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="INFANTIS",Disney Channel HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3366.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="INFANTIS",Disney Junior
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1831.ts
@@ -50,11 +56,11 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1831.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIS",Disney XD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1830.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="INFANTIS",Nickelodeon
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="INFANTIS",Nick HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3355.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIS",Nick Jr.
-http://144.217.79.160:8505/live/francis/francis/632.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1778.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",Gloob HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3362.ts
