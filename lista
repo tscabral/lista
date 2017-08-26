@@ -9,13 +9,18 @@ http://177.67.253.55:8080/stream.flv?SUPER_GAME_TV
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/band.png" group-title="CANAIS ABERTOS",FUTURA
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 
+****************************************************     INFANTIS      *********************************************************
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/7DuNQqL.png" group-title="Infantil",Discovery Kids
+http://144.217.79.160:8505/live/francis/francis/679.ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
 http://188.166.88.166/stream/cxLmQj5OV7JPYY5wqaxDNVZWPkZvhrKX.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",MULTISHOW
 http://95.141.32.213:8081/look/eimax/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/7DuNQqL.png" group-title="Infantil",Discovery Kids
+
 http://95.141.35.104:8081/look/discoverykids/playlist.m3u8
 
 
