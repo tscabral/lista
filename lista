@@ -1,4 +1,29 @@
 #EXTM3U
+****************************************************     CULTURA      *********************************************************
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="CULTURA",Discovery Channel
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1840.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="CULTURA",Animal Planet HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1863.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="CULTURA",History Channel HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1797.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3430.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="CULTURA",Discovery World HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA",National Geography HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1781.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="CULTURA",NatGeoWild HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2151.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="CULTURA",ID - Investigação Discovery HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.ts
+
 ****************************************************     ABERTOS      *********************************************************
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="CANAIS ABERTOS",TV CULTURA
 http://177.73.84.49/hls/live/live.m3u8
@@ -37,14 +62,21 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3362.ts
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="INFANTIS",Boomerang
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1852.ts
 
+****************************************************     VARIEDADES      ******************************************************
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="VARIEDADES",Discovery Turbo HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1833.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="VARIEDADES",Discovery Home & Health HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1837.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="VARIEDADES",Multishow HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2123.ts
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
 http://188.166.88.166/stream/cxLmQj5OV7JPYY5wqaxDNVZWPkZvhrKX.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",MULTISHOW
-http://95.141.32.213:8081/look/eimax/playlist.m3u8
+
 
 
 
