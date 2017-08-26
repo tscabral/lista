@@ -34,6 +34,9 @@ http://144.217.79.160:8505/live/francis/francis/632.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",Gloob HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3362.ts
 
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="INFANTIS",Boomerang
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1852.ts
+
 
 
 
@@ -43,7 +46,7 @@ http://188.166.88.166/stream/cxLmQj5OV7JPYY5wqaxDNVZWPkZvhrKX.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",MULTISHOW
 http://95.141.32.213:8081/look/eimax/playlist.m3u8
 
-http://95.141.35.104:8081/look/discoverykids/playlist.m3u8
+
 
 
 
