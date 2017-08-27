@@ -1,31 +1,31 @@
 #EXTM3U
 ****************************************************     CULTURA      *********************************************************
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="CULTURA",Discovery Channel
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1840.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1840.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="CULTURA",Animal Planet HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1863.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1863.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="CULTURA",History Channel HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1797.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1797.m3u8
 
 #EXTINF:-1 tvg-id="H2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="CULTURA",H2
-http://144.217.79.160:8505/live/francis/francis/742.ts
+http://144.217.79.160:8505/live/francis/francis/742.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3430.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3430.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="CULTURA",Discovery World HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2163.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2163.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA",National Geography HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1781.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1781.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="CULTURA",NatGeoWild HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2151.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2151.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1861.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1861.m3u8
 
 ****************************************************     ABERTOS      *********************************************************
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="CANAIS ABERTOS",TV CULTURA
@@ -39,155 +39,155 @@ http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 
 ****************************************************     INFANTIS      *********************************************************
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png" group-title="INFANTIS",Discovery Kids HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3367.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3367.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="INFANTIS",Cartoon Network HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3369.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3369.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="INFANTIS",Disney Channel HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3366.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3366.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="INFANTIS",Disney Junior
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1831.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1831.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIS",Disney XD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1830.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1830.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="INFANTIS",Nick HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3355.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3355.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIS",Nick Jr.
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1778.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1778.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",Gloob HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3362.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3362.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="INFANTIS",Boomerang
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1852.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1852.m3u8
 
 ****************************************************     VARIEDADES      ******************************************************
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="VARIEDADES",Discovery Turbo HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1833.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1833.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="VARIEDADES",Discovery Home & Health HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1837.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1837.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="VARIEDADES",Multishow HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2123.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2123.m3u8
 
 #EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV Brasil" tvg-logo="http://i.imgur.com/XeWL8tM.jpg" group-title="VARIEDADES",MTV
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/368.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/368.m3u8
 
 #EXTINF:-1 tvg-id="VH1 Mega Hits" tvg-name="VH1 Megahits HD" tvg-logo="" group-title="VARIEDADES",VH1 Megahits HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/304.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/304.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globo Sat HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="VARIEDADES",Mais Globo Sat HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3360.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3360.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E!" tvg-logo="http://i.imgur.com/L3C9Erj.jpg" group-title="VARIEDADES",E!
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/402.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/402.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/Cm7vMTx.jpg" group-title="VARIEDADES",GNT HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/472.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/472.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://i.imgur.com/ApMMmOJ.png" group-title="VARIEDADES",A&E
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/432.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/432.m3u8
 
 #EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/0ocjpbx.png" group-title="VARIEDADES",BIS HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/494.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/494.m3u8
 
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/uijwHIE.jpg" group-title="VARIEDADES",FOX Life HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/477.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/477.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/N7XDBpy.png" group-title="VARIEDADES",Comedy Central HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/413.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/413.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="VARIEDADES",ID - Investigação Discovery HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.ts
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/wNwe2I4.jpg" group-title="VARIEDADES",Fish TV
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/397.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/397.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/Tte2kHv.gif" group-title="VARIEDADES",Lifetime
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/375.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/375.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/VjKGiXc.jpg" group-title="VARIEDADES",OFF HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/459.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/459.m3u8
 
 #EXTINF:-1 tvg-id="WooHoo" tvg-name="WooHoo HD" tvg-logo="http://clarotv.claro.com.br/image/Get/3117" group-title="VARIEDADES",WooHoo HD
-http://lista.sv1.tv:25461/live/mfernandoasc@gmail.com/1UdQCESs1l/1703.ts
+http://lista.sv1.tv:25461/live/mfernandoasc@gmail.com/1UdQCESs1l/1703.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="VARIEDADES",TLC
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/314.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/314.m3u8
 
 #EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://i.imgur.com/XQlYHYL.png" group-title="VARIEDADES",VIVA HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/436.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/436.m3u8
 
 
 ****************************************************     NOTÍCIAS      ******************************************************
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://nppa.org/sites/default/files/CNN%20LOGO%20new.png" group-title="NOTICIAS",CNN
-http://142.4.217.62:25461/live/kEc4azKjFU/XwHhbcAXXo/2193.ts
+http://142.4.217.62:25461/live/kEc4azKjFU/XwHhbcAXXo/2193.m3u8
 
 ****************************************************     ESPORTES      ******************************************************
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/UU8lhGY.png" group-title="ESPORTES",Combate HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/492.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/492.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN+ HD" tvg-logo="http://i.imgur.com/I3nkADa.jpg" group-title="ESPORTES",ESPN+ HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/482.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/482.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil HD" tvg-logo="http://i.imgur.com/f86BKpx.jpg" group-title="ESPORTES",ESPN Brasil HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/483.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/483.m3u8
 
 #EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN HD" tvg-logo="http://i.imgur.com/RkMXXH9.png" group-title="ESPORTES",ESPN HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/484.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/484.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sport HD" tvg-logo="http://i.imgur.com/WRvfUuj.png" group-title="ESPORTES",Fox SportS HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/476.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/476.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="http://i.imgur.com/FiKarZ1.jpg" group-title="ESPORTES",FOX Sports 2 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/475.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/475.m3u8
 
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports HD" tvg-logo="http://i.imgur.com/Ykaq5MD.jpg" group-title="ESPORTES",Band Sports HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/495.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/495.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sport TV HD" tvg-logo="http://i.imgur.com/UzrVEfg.jpg" group-title="ESPORTES",Sport TV HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/446.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/446.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sport TV 2 HD" tvg-logo="http://i.imgur.com/kxDwJkr.jpg" group-title="ESPORTES",Sport TV 2 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/448.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/448.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sport TV 3 HD" tvg-logo="http://i.imgur.com/3ElXfQK.png" group-title="ESPORTES",Sport TV 3 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/447.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/447.m3u8
 
 #EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/yyW7lF7.jpg" group-title="ESPORTES",Esporte Interativo HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/485.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/485.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://i.imgur.com/jtarMSc.png" group-title="ESPORTES",Esporte Interativo 2 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/486.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/486.m3u8
 
 #EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1 HD" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 1 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/457.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/457.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/gbjidpo.jpghttp://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 2 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/456.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 3 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/455.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/455.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 4 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/454.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/454.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 5 HD
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/453.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/453.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 6
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/350.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/350.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 7
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/349.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/349.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 8
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/348.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/348.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 9
-http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/347.ts
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/347.m3u8
