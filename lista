@@ -198,4 +198,8 @@ http://portal.geniptv.com:8080/live/messef/ao539EpinD/1764.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="https://www.pureoutdoor.co.uk/uploads/images/bbc.png" group-title="INGLES",BBC
 http://portal.geniptv.com:8080/live/messef/ao539EpinD/1777.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.tractica.com/wp-content/uploads/2015/09/bloomberg.png" group-title="INGLES",Bloomberg
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1770.ts
+
+
 
