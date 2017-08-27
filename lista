@@ -24,9 +24,6 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1781.ts
 #EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="CULTURA",NatGeoWild HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2151.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="CULTURA",ID - Investigação Discovery HD
-http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="CULTURA",Arte 1
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1861.ts
 
@@ -78,8 +75,54 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1837.ts
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="VARIEDADES",Multishow HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2123.ts
 
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV Brasil" tvg-logo="http://i.imgur.com/XeWL8tM.jpg" group-title="VARIEDADES",MTV
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/368.ts
+
+#EXTINF:-1 tvg-id="VH1 Mega Hits" tvg-name="VH1 Megahits HD" tvg-logo="" group-title="VARIEDADES",VH1 Megahits HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/304.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globo Sat HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="VARIEDADES",Mais Globo Sat HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3360.ts
+
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E!" tvg-logo="http://i.imgur.com/L3C9Erj.jpg" group-title="VARIEDADES",E!
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/402.ts
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/Cm7vMTx.jpg" group-title="VARIEDADES",GNT HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/472.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://i.imgur.com/ApMMmOJ.png" group-title="VARIEDADES",A&E
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/432.ts
+
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/0ocjpbx.png" group-title="VARIEDADES",BIS HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/494.ts
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/uijwHIE.jpg" group-title="VARIEDADES",FOX Life HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/477.ts
+
+#EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/N7XDBpy.png" group-title="VARIEDADES",Comedy Central HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/413.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="VARIEDADES",ID - Investigação Discovery HD
+http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2152.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/wNwe2I4.jpg" group-title="VARIEDADES",Fish TV
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/397.ts
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/Tte2kHv.gif" group-title="VARIEDADES",Lifetime
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/375.ts
+
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/VjKGiXc.jpg" group-title="VARIEDADES",OFF HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/459.ts
+
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="WooHoo HD" tvg-logo="http://clarotv.claro.com.br/image/Get/3117" group-title="VARIEDADES",WooHoo HD
+http://lista.sv1.tv:25461/live/mfernandoasc@gmail.com/1UdQCESs1l/1703.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="VARIEDADES",TLC
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/314.ts
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://i.imgur.com/XQlYHYL.png" group-title="VARIEDADES",VIVA HD
+http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/436.ts
+
 
 ****************************************************     NOTÍCIAS      ******************************************************
 
