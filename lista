@@ -125,6 +125,8 @@ http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/436.ts
 
 
 ****************************************************     NOTÍCIAS      ******************************************************
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://nppa.org/sites/default/files/CNN%20LOGO%20new.png" group-title="NOTICIAS",CNN
+http://142.4.217.62:25461/live/kEc4azKjFU/XwHhbcAXXo/2193.ts
 
 ****************************************************     ESPORTES      ******************************************************
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/UU8lhGY.png" group-title="ESPORTES",Combate HD
