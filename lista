@@ -9,7 +9,7 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="CULTURA",History Channel HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1797.m3u8
 
-#EXTINF:-1 tvg-id="H2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="CULTURA",H2
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://i.pinimg.com/originals/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6.jpg" group-title="CULTURA",H2
 http://144.217.79.160:8505/live/francis/francis/742.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater HD
@@ -18,7 +18,7 @@ http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/3430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="CULTURA",Discovery World HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2163.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA",National Geography HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA",National Geographic HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/1781.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="CULTURA",NatGeoWild HD
