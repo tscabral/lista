@@ -78,6 +78,8 @@ http://144.217.79.160:8505/live/francis/francis/761.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health 3" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="VARIEDADES",Discovery Home & Health 3
 http://144.217.181.157:8880/live/st8mjxoisa01/4dnp63bwytza/109.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health 4" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="VARIEDADES",Discovery Home & Health 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/761.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="VARIEDADES",Multishow HD
 http://lista.cineiptv.com:25461/live/cineiptv10727/TBAObi4BLt/2123.m3u8
