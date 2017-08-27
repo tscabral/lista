@@ -125,8 +125,7 @@ http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/436.m3u8
 
 
 ****************************************************     NOTÍCIAS      ******************************************************
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://nppa.org/sites/default/files/CNN%20LOGO%20new.png" group-title="NOTICIAS",CNN
-http://142.4.217.62:25461/live/kEc4azKjFU/XwHhbcAXXo/2193.m3u8
+
 
 ****************************************************     ESPORTES      ******************************************************
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/UU8lhGY.png" group-title="ESPORTES",Combate HD
@@ -191,3 +190,12 @@ http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/348.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/c9n6pSz.jpg" group-title="ESPORTES",Premiere 9
 http://meuiptv.dyndns.tv:25461/live/fcharlespsouza@gmail.com/KClHct4385/347.m3u8
+
+****************************************************     INGLÊS      *********************************************************
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://nppa.org/sites/default/files/CNN%20LOGO%20new.png" group-title="INGLES",CNN
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1764.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="https://www.pureoutdoor.co.uk/uploads/images/bbc.png" group-title="INGLES",BBC
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1777.ts
+
+
