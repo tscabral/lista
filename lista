@@ -210,5 +210,9 @@ http://portal.geniptv.com:8080/live/messef/ao539EpinD/1777.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.tractica.com/wp-content/uploads/2015/09/bloomberg.png" group-title="INGLES",Bloomberg
 http://portal.geniptv.com:8080/live/messef/ao539EpinD/1770.ts
 
+****************************************************     FRANCÊS      *********************************************************
+#EXTINF:-1, •FR ® TV 5 MONDE tvg-name="TV5 Monde"
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+
 
 
